@@ -5,6 +5,5 @@ def sticks_with_equal_length():
             print((n+1)//2)
             continue
         print(1)
-
 sticks_with_equal_length()
     
